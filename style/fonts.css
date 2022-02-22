@@ -1,0 +1,24 @@
+/*Gilroy*/
+@font-face {
+	font-family: 'Gilroy';
+	src: url('../fonts/Gilroy Bold.eot');
+	src: local('☺'), url('../fonts/Gilroy Bold.woff') format('woff'), url('../fonts/Gilroy Bold.ttf') format('truetype'), url('../fonts/Gilroy Bold.svg') format('svg');
+	font-weight: 700;
+	font-style: normal;
+}
+/*Proxima Nova*/
+@font-face {
+	font-family: 'Proxima Nova';
+	src: url('../../fonts/Proxima Nova Semibold.eot');
+	src: local('☺'), url('../fonts/Proxima Nova Semibold.woff') format('woff'), url('../fonts/Proxima Nova Semibold.ttf') format('truetype'), url('../fonts/Proxima Nova Semibold.svg') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Proxima Nova';
+	src: url('fonts/Proxima Nova Light.eot');
+	src: local('☺'), url('fonts/Proxima Nova Light.woff') format('woff'), url('fonts/Proxima Nova Light.ttf') format('truetype'), url('fonts/Proxima Nova Light.svg') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
